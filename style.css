@@ -1,0 +1,49 @@
+body {
+  background-color: #f7f0c3;
+}
+
+h1, p, li {
+  font-family: Verdana;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  width: 250px;
+  height: 25px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+button {
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f07973;
+  font-family: Verdana;
+}
+
+.itemlist {
+  background: white;
+  border-width: 2px;
+  border-style: dotted;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+#enter {
+  width: 80px;
+  background-color: #a6d46e;
+  font-weight: bold;
+}
+
+.done {
+  text-decoration: line-through;
+}

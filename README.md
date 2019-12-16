@@ -1,1 +1,1 @@
-# To Do List created for Zero to Mastery 
+To Do List created for Zero to Mastery 
